@@ -7,7 +7,7 @@ This repository contains official project templates for Rensa, providing differe
 ### 1️⃣ Basic Template 
 A minimal setup with just an `index.js` file. Ideal for small projects or quick testing.
 
-### 2️⃣ MVC Template
+### 2️⃣ MVC Template (Standard)
 A structured project setup following the Model-View-Controller (MVC) pattern. It includes:
 ```
 src/
