@@ -11,6 +11,6 @@
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
-    "rensa": "^1.0.0"
+    "rensa": "latest"
   }
 }
