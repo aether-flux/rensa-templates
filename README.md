@@ -4,19 +4,9 @@ This repository contains official project templates for Rensa, providing differe
 
 ## Available Templates
 
-### 1️⃣ Basic Template 
-A minimal setup with just an `index.js` file. Ideal for small projects or quick testing.
+### 1️⃣ Manual Template 
+A Rensa project with the mode set to **manual**. Comes with a pre-defined and configured **rensa.config.js**. Run `npm run dev` to start the dev server and see your server up and running.
 
-### 2️⃣ MVC Template
-A structured project setup following the Model-View-Controller (MVC) pattern. It includes:
-```
-src/
-├── config/
-├── controllers/
-├── models/
-├── views/
-├── routes/
-├── middlewares/
-├── utils/
-└── index.js
-```
+### 2️⃣ ComposeTemplate
+A Rensa project with the mode set to **compose**. Comes with a **rensa.config.js** with the basic options, and a **routes/** directory with a **GET /** route defined in the file structure. Run `npm run dev` to start the dev server and see your server up and running.
+
