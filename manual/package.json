@@ -11,6 +11,6 @@
   "license": "ISC",
   "type": "module",
   "dependencies": {
-    "rensa": "^2.1.2"
+    "rensa": "^3.0.0"
   }
 }
